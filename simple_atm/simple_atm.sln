@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_atm", "simple_atm.vcxproj", "{E632C08C-3DA6-40FB-B600-0C89E2B37389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Debug|x64.ActiveCfg = Debug|x64
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Debug|x64.Build.0 = Debug|x64
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Debug|x86.ActiveCfg = Debug|Win32
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Debug|x86.Build.0 = Debug|Win32
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Release|x64.ActiveCfg = Release|x64
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Release|x64.Build.0 = Release|x64
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Release|x86.ActiveCfg = Release|Win32
+		{E632C08C-3DA6-40FB-B600-0C89E2B37389}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD4D989-6AB8-4B7D-8863-A5930140D706}
+	EndGlobalSection
+EndGlobal
